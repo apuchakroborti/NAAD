@@ -1,0 +1,24 @@
+Tanzir 01 A
+Masum 02 A
+Rakhi 03 A
+Jargis 04 C
+Akash 05 C
+Shohan 06 E
+Tareak 07 E
+Fahim 08 A
+Osama 09 C
+Jahid 10 E
+Tanmoy 12 C
+Osama 09 C
+Akash 05 E
+Apu 50 A
+Nafis 48 C
+Bishel 90 A
+Tamal 91 E
+Fahim 08 C
+Tamal 91 A
+Apu 51 C
+Babuvai 100 C
+Zahid 39 C
+
+
